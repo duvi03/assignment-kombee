@@ -1,5 +1,6 @@
 # **Assignment - Kombee**
 **E-Commerce App**
+![Build Status](https://img.shields.io/github/workflow/status/duvi03/assignment-kombee/CI?label=Build&logo=github)
 
 ### **Flutter Version:**
 3.29.3
