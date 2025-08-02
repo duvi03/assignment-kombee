@@ -1,6 +1,8 @@
 # **Assignment - Kombee**
 **E-Commerce App**
-![Build Status](https://github.com/duvi03/assignment-kombee/actions/runs/16691099477/artifacts/3672655630)
+
+### Build APK Link
+[![Build APK](https://img.shields.io/github/workflow/status/duvi03/assignment-kombee/CI?label=Build&logo=github)](https://github.com/duvi03/assignment-kombee/actions/runs/16691099477/artifacts/3672655630)
 
 ### **Flutter Version:**
 3.29.3
